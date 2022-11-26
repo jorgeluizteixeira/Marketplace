@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marketplace.Infrastructure.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marketplace.Infrastructure.IoC", "Marketplace.Infrastructure.IoC\Marketplace.Infrastructure.IoC.csproj", "{9E8CB706-64EC-458A-B0D1-E65F2FEB203E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marketplace.WebUI", "Marketplace.WebUI\Marketplace.WebUI.csproj", "{D74C44D1-A189-4FBE-AF28-9BBEC69A4974}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{9E8CB706-64EC-458A-B0D1-E65F2FEB203E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E8CB706-64EC-458A-B0D1-E65F2FEB203E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E8CB706-64EC-458A-B0D1-E65F2FEB203E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D74C44D1-A189-4FBE-AF28-9BBEC69A4974}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D74C44D1-A189-4FBE-AF28-9BBEC69A4974}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D74C44D1-A189-4FBE-AF28-9BBEC69A4974}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D74C44D1-A189-4FBE-AF28-9BBEC69A4974}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
